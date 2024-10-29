@@ -1,0 +1,5 @@
+Flask
+Flask-Bcrypt
+pony
+PyMySQL
+flask_login

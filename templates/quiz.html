@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/quiz-style.css') }}">
+<form method="POST">
+    {% for question in questions %}
+        <h4>{{ question.text }}</h4>
+        <input type="radio" name="answer" value="A" required> {{ question.option_a }}<br>
+        <input type="radio" name="answer" value="B" required> {{ question.option_b }}<br>
+    {% endfor %}
+    <button type="submit">Submit</button>
+</form>
+{% endblock %}

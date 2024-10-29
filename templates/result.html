@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/result-style.css') }}">
+
+<div class="result-container">
+    <h2>Quiz Result</h2>
+    <p>{{ result }}</p>
+
+    <div class="download-section">
+        <form action="{{ url_for('download_result') }}" method="post">
+            <input type="hidden" name="result" value="{{ result }}">
+            <button type="submit">Download Result</button>
+        </form>
+    </div>
+
+    <a href="{{ url_for('home') }}">Return to Home</a>
+</div>
+{% endblock %}

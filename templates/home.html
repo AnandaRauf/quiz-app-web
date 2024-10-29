@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/home-style.css') }}">
+<h2>Welcome to the Quiz App</h2>
+
+{% if categories %}
+    <h3>Available Quizzes</h3>
+    <ul>
+        {% for category in categories %}
+            <li><a href="{{ url_for('quiz', category=category) }}">Take the "{{ category }}" Quiz</a></li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>No quizzes available at the moment.</p>
+{% endif %}
+
+{% endblock %}
