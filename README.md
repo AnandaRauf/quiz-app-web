@@ -1,6 +1,11 @@
 # Quiz App Web
 Webiste Quiz app Narsistik VS Empati,Introvert VS Ekstrovert, Thinker VS Feeler
 
+Tampilan Quiz:
+1. ![Tampilan Admin]()
+2. ![Tampilan Take Quiz]()
+3. ![Tampilan sedang Quiz]()
+
 #Cara gunakan website:
 
 1. Install Python versi 3.8 di folder Bahan untuk web
@@ -11,7 +16,8 @@ Webiste Quiz app Narsistik VS Empati,Introvert VS Ekstrovert, Thinker VS Feeler
 6. kemudian buat Virtual Environment dengan cara ketik di cmd: python -m venv nama-virtual-env
 7. Aktifkan Virtual Env dengan cara ketik di cmd: cd nama-virtual-env/Scripts dan kemudian ketik activate.bat.
 8. Arahkan ke folder root quiz-app, dengan ketik di cmd dua kali: cd .. dan cd ..
-9. Kemudian ketik di cmd: flask run
+9. Kemudian install library dengan cara ketik di cmd: pip install -r requirements.txt
+10. Kemudian ketik di cmd: flask run
 
 Untuk menggunakan Laragon dan Setting Environment Varibel path system buka gambar di folder SS Laragon dan di folder SS Env Path System
 
