@@ -2,12 +2,12 @@
 Webiste Quiz app Narsistik VS Empati,Introvert VS Ekstrovert, Thinker VS Feeler
 
 Tampilan Quiz:
-1. Tampilan Register: ![Tampilan Register]()
-2. Tampilan Login: ![Tampilan Login]()
-3. Tampilan Admin: ![Tampilan Admin](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(251).png?raw=true)
-4. Tampilan Sedang Quiz: ![Tampilan sedang Quiz](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(245).png?raw=true)
-5. Tampilan Pilih Quiz: ![Tampilan Pilih Quiz](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(246).png?raw=true)
-6. Tampilan Result: ![Tampilan Result]()
+1. Tampilan Register: ![Tampilan Register 1](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(248).png?raw=true) ![Tampilan Register 2](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(249).png?raw=true)
+3. Tampilan Login: ![Tampilan Login](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(247).png?raw=true)
+4. Tampilan Admin: ![Tampilan Admin](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(251).png?raw=true)
+5. Tampilan Sedang Quiz: ![Tampilan sedang Quiz](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(245).png?raw=true)
+6. Tampilan Pilih Quiz: ![Tampilan Pilih Quiz](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(246).png?raw=true)
+7. Tampilan Result: ![Tampilan Result](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(260).png?raw=true)
 
 
 #Cara gunakan website:
