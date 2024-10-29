@@ -6,7 +6,7 @@ Tampilan Quiz:
 2. Tampilan Login: ![Tampilan Login]()
 3. Tampilan Admin: ![Tampilan Admin](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(251).png?raw=true)
 4. Tampilan Sedang Quiz: ![Tampilan sedang Quiz](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(245).png?raw=true)
-5. Tampilan Pilih Quiz: ![Tampilan Pilih Quiz]()
+5. Tampilan Pilih Quiz: ![Tampilan Pilih Quiz](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(246).png?raw=true)
 6. Tampilan Result: ![Tampilan Result]()
 
 
