@@ -2,7 +2,7 @@
 Webiste Quiz app Narsistik VS Empati,Introvert VS Ekstrovert, Thinker VS Feeler
 
 Tampilan Quiz:
-1. ![Tampilan Admin]()
+1. ![Tampilan Admin](https://github.com/AnandaRauf/quiz-app-web/blob/main/SS%20Tampilan/Screenshot%20(251).png?raw=true)
 2. ![Tampilan Take Quiz]()
 3. ![Tampilan sedang Quiz]()
 
